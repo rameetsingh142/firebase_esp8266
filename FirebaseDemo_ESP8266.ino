@@ -23,8 +23,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "rameet123-250e2.firebaseio.com"
 #define FIREBASE_AUTH "Rk9KX6nSCwgTZQ3jovptWIcyUHdi5jvYJJv877GG"
-#define WIFI_SSID "rameet"
-#define WIFI_PASSWORD "0142PPpp"
+#define WIFI_SSID "wifi name"//enter your wifi name
+#define WIFI_PASSWORD "wifi password"//enter your wifi password
 
 void setup() {
   Serial.begin(9600);
